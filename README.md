@@ -65,3 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # SoalPHP
+
+- Untuk Source Code ada pada halaman controller (SoalInosoft)
+- Untuk pengaksesan bisa ketik : http://127.0.0.1:8000/soalinosoft
+- Untuk Hasil screenshot bisa saya sertakan dibawah ini :
+![image](https://github.com/RizalPrabaswara/SoalPHP/assets/77397827/9db33397-c30f-4a9d-9cf2-95124dfed51a)
+
